@@ -1,0 +1,88 @@
+body{
+  margin: 50px 250px;
+   
+}
+.nav{
+   color: #707070;
+   cursor: pointer;
+}
+.buy-now-button{
+   background-color: black;
+   color: white;
+   border: none;
+   border-radius: 8px;
+   padding: 10px 30px;
+   cursor: pointer;
+}
+.conatiner{
+   margin-top: 100px;
+}
+.color{
+   color: orange;
+   cursor: pointer;
+}
+.card-deck{
+   margin-top: 30px;
+}
+.card{
+   border: none;
+   box-shadow: 5px 5px 10px lightgrey;
+   border-radius: 10px;
+}
+.card-body{
+   height: 350px;
+}
+
+.card-img-top{
+      width: 300px;
+      padding-top: 70px;
+}
+.card-title{
+   text-align: center;
+   font-size: 30px;
+   padding-top: 20px;
+   padding-bottom: 5px;
+}
+.card-text{
+   color: #707070;
+   font: 20px;
+   padding: 2px 5px;
+  
+}
+.price{
+   text-align: center;
+   padding-top: 20px;
+ 
+}
+.button{
+  margin-left: 150px;
+  margin-top: 20px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.container{
+   text-align: center;
+   margin-top: 200px;
+}
+.under{
+  padding-bottom: 150px;
+  color: orange;
+}
+.caption{
+   width: 200px;
+}
+
+
+h4{
+  text-align: center;
+}
+
+.text-center{
+   padding-top: 50px;
+}
+
+
+
